@@ -76,3 +76,11 @@ p {
   max-width: 20em;
   justify-content: center;
 }
+
+body a.directions-button:link,
+body a.directions-button:visited,
+body a.directions-button:hover,
+body a.directions-button:active {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
