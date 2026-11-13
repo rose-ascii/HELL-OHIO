@@ -77,10 +77,15 @@ p {
   justify-content: center;
 }
 
-.button a,
+.button a {
+  color: black !important;
+  text-decoration: none !important;
+}
+
 .button a:visited,
 .button a:hover,
-.button a:active {
-  color: #000000;
-  text-decoration: none;
+.button a:active,
+.button a:focus {
+  color: black !important;
+  text-decoration: none !important;
 }
