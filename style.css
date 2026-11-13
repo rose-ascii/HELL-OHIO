@@ -76,3 +76,11 @@ p {
   max-width: 20em;
   justify-content: center;
 }
+
+.button a,
+.button a:visited,
+.button a:hover,
+.button a:active {
+  color: #000000;
+  text-decoration: none;
+}
