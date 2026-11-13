@@ -40,6 +40,7 @@ h2 {
 .photo-container img {
   width: 80%;
   max-width: 700px;
+  justify-content: center;
   height: auto;
   border-radius: 8px;
   object-fit: cover;
