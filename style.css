@@ -3,14 +3,6 @@
   box-sizing: border-box;
 }
 
-.button {
-  background-color: #F7E0C6;
-  border: none;
-  padding: 10px 20px;
-  font-size: 16px;
-  cursor: pointer;
-  border-radius: 4px;
-  max-width: 20em;
 }
 
 body {
@@ -75,3 +67,13 @@ p {
   line-height: 1.7;
   text-align: center;
 }
+
+.button {
+  background-color: #F7E0C6;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  max-width: 20em;
+  justify-content: center;
