@@ -76,16 +76,3 @@ p {
   max-width: 20em;
   justify-content: center;
 }
-
-.button a {
-  color: black !important;
-  text-decoration: none !important;
-}
-
-.button a:visited,
-.button a:hover,
-.button a:active,
-.button a:focus {
-  color: black !important;
-  text-decoration: none !important;
-}
