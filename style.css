@@ -80,3 +80,7 @@ p {
 .photo-container:last-of-type img {
   width: 40%;
 }
+
+.light-link {
+  color: #DCEBFF;
+}
