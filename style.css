@@ -84,3 +84,7 @@ p {
 .light-link {
   color: #DCEBFF;
 }
+
+.light-link:visited {
+  color: #E6D6FF;
+}
