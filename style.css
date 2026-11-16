@@ -76,3 +76,7 @@ p {
   max-width: 20em;
   justify-content: center;
 }
+
+.photo-container:last-of-type img {
+  width: 40%;
+}
